@@ -1,2 +1,2 @@
 # OnlineVoting
-Server Client Code .Done in java using multithreading
+multi-threaded Socket Programming in Java
